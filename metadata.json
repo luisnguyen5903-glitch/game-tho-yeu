@@ -1,0 +1,6 @@
+{
+  "name": "Tiệm Nail Của Tôi - Game Quản Lý & Làm Móng",
+  "description": "Game mô phỏng quản lý tiệm nail và làm móng nghệ thuật trên di động với tương tác dũa móng, sơn gel, đính đá, chăm sóc khách hàng và nâng cấp salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
